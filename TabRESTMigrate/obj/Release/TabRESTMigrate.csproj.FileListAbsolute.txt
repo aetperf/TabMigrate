@@ -1,0 +1,15 @@
+C:\AETP\Git\tableau\github_projects\TabMigrate\TabRESTMigrate\bin\Release\TabRESTMigrate.exe.config
+C:\AETP\Git\tableau\github_projects\TabMigrate\TabRESTMigrate\bin\Release\_SampleFiles\SiteInventory.twb
+C:\AETP\Git\tableau\github_projects\TabMigrate\TabRESTMigrate\bin\Release\TabRESTMigrate.exe.manifest
+C:\AETP\Git\tableau\github_projects\TabMigrate\TabRESTMigrate\bin\Release\TabRESTMigrate.application
+C:\AETP\Git\tableau\github_projects\TabMigrate\TabRESTMigrate\bin\Release\TabRESTMigrate.exe
+C:\AETP\Git\tableau\github_projects\TabMigrate\TabRESTMigrate\bin\Release\TabRESTMigrate.pdb
+C:\AETP\Git\tableau\github_projects\TabMigrate\TabRESTMigrate\obj\Release\TabRESTMigrate.csprojResolveAssemblyReference.cache
+C:\AETP\Git\tableau\github_projects\TabMigrate\TabRESTMigrate\obj\Release\OnlineContentDownloader.FormSiteExportImport.resources
+C:\AETP\Git\tableau\github_projects\TabMigrate\TabRESTMigrate\obj\Release\TabRESTMigrate.Properties.Resources.resources
+C:\AETP\Git\tableau\github_projects\TabMigrate\TabRESTMigrate\obj\Release\TabRESTMigrate.csproj.GenerateResource.Cache
+C:\AETP\Git\tableau\github_projects\TabMigrate\TabRESTMigrate\obj\Release\TabRESTMigrate.TrustInfo.xml
+C:\AETP\Git\tableau\github_projects\TabMigrate\TabRESTMigrate\obj\Release\TabRESTMigrate.exe.manifest
+C:\AETP\Git\tableau\github_projects\TabMigrate\TabRESTMigrate\obj\Release\TabRESTMigrate.application
+C:\AETP\Git\tableau\github_projects\TabMigrate\TabRESTMigrate\obj\Release\TabRESTMigrate.exe
+C:\AETP\Git\tableau\github_projects\TabMigrate\TabRESTMigrate\obj\Release\TabRESTMigrate.pdb
